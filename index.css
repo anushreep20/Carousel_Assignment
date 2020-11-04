@@ -1,0 +1,94 @@
+body,
+html {
+    width: 100%;
+    height: 100%;
+}
+#home{
+     width: 50%;
+     height: 50%;
+}
+.content
+{
+    min-height: 600px;
+}
+
+
+img{
+    margin: auto;
+    width: 100%;
+    height: 100%;
+}
+
+.image{
+    text-align: center;
+    background-image: url("home.jpg") ;
+    height:100%;
+    width:100%;
+}
+
+.button{
+    color: grey; 
+    background-color: buttonhighlight; 
+    padding: 10px 10px; 
+    font-size: 18px; 
+    border-radius: 6px;
+}
+
+.container{
+    width:100%; 
+    margin:auto; 
+    overflow:hidden;
+}
+
+footer{
+    padding: 10px 0;
+    background-color: #101010;
+    color:#9d9d9d;
+    bottom: 0;
+    width: 100%;
+}
+
+.row_style{
+    margin-top: 10%;
+    margin-left: 20%;
+    margin-bottom: 10%;
+}
+
+
+.carousel
+{
+    margin: auto;
+    width:500px;
+    height: 250px;
+}
+
+.login
+{
+    width: auto;
+   
+}
+
+h1{
+  font-family:Courier New;
+  color: black; 
+  background-color: white;
+  margin-top: 90%;
+  margin-bottom: 5%;
+}
+
+marquee{
+    color:whitesmoke;
+    font-family: cursive;
+}
+
+h5{
+    font-family:sans-serif;
+    font-weight:bold;   
+}
+
+
+   
+.dropdown{
+    margin-left: 70%;
+    }
+ 
